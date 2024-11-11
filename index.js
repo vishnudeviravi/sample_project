@@ -1,5 +1,5 @@
-module.exports.sum = (fNum, sNum) => {
-  return fNum + sNum;
+module.exports.sum = (fNumber, sNum) => {
+  return fNumber + sNum;
 };
 
 module.exports.sub = (fNum, sNum) => {
