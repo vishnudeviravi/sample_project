@@ -1,6 +1,7 @@
-const sum = require('./index');
+const { sum, sub } = require('./index');
 
 console.log(sum(234, 432));
+console.log(sub(234, 432));
 
 // git status - to check current status
 // git add .  - to select all files to be commited
